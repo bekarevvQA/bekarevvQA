@@ -1,4 +1,4 @@
-<h1 align="center">Allow me to introduce myself, I'm <a href="https://github.com/bekarevvQAtest" target="_blank">Vasilii</a> 
+<h1 align="center">Allow me to introduce myself, I'm <a href="https://github.com/bekarevvQA/bekarevvQA" target="_blank">Vasilii</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Quality Assurance Engineer from Saint Petersburg. Here I'm sharing a collection of web and mobile testing portfolio items that I developed through various courses and personal projects.</h3>
 
