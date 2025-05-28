@@ -12,6 +12,8 @@
 
 ---
 ### My Test Artifacts
+<ul>
+<li>  <a href="https://github.com/bekarevvQA/web_shop_testing">Web-shop testing</a> - exploratory and functional testing
 
 ---
 
