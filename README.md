@@ -16,6 +16,7 @@
 <li>  <a href="https://github.com/bekarevvQA/web_shop_testing">Web-shop testing</a> - exploratory and functional testing
 <li>  <a href="https://github.com/bekarevvQA/api_testing">API Testing</a> – REST and SOAP via Postman</li>
 <li>  <a href="https://github.com/bekarevvQA/sql.git">MySQL</a> - queries and database validation scripts</li>
+<li>  <a href="https://github.com/bekarevvQA/mongodb">MongoDB</a> - NoSQL queries via MongoDB</li>
 
 ---
 
