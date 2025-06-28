@@ -17,6 +17,7 @@
 <li>  <a href="https://github.com/bekarevvQA/api_testing">API Testing</a> – REST and SOAP via Postman</li>
 <li>  <a href="https://github.com/bekarevvQA/sql.git">MySQL</a> - queries and database validation scripts</li>
 <li>  <a href="https://github.com/bekarevvQA/mongodb">MongoDB</a> - NoSQL queries via MongoDB</li>
+<li>  <a href="https://github.com/bekarevvQA/proxyman.git">Proxyman</a> - changing responses and network checking</li>
 
 ---
 
