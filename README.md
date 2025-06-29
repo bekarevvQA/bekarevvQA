@@ -18,6 +18,7 @@
 <li>  <a href="https://github.com/bekarevvQA/sql.git">MySQL</a> - queries and database validation scripts</li>
 <li>  <a href="https://github.com/bekarevvQA/mongodb">MongoDB</a> - NoSQL queries via MongoDB</li>
 <li>  <a href="https://github.com/bekarevvQA/proxyman.git">Proxyman</a> - changing responses and network checking</li>
+<li>  <a href="https://github.com/bekarevvQA/git">Git</a> - basic commands for control versions</li>
 
 ---
 
