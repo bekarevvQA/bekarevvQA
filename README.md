@@ -28,7 +28,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
 <img src="https://aggregroup.com/media/products/T/2024/cce7ce8e-7d9b-47a7-8b38-c1cff7c4e178.png" title="TestRail" alt="TestRail" width="40" height="40"/>
 <img src="https://luna1.co/eb0187.png" title="Qase" alt="Qase" width="40" height="40"/>
-<img src="https://d25v584w39wn8g.cloudfront.net/l2r2ld3myrmg2vl1-ChromeDevToolPlugins_140px@2x.png" title="Chrome DevTools" alt="Chrome DevTools" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/11260967?s=280&v=4" title="Chrome DevTools" alt="Chrome DevTools" width="40" height="40"/>
 <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" title="Postman" alt="Postman" width="40" height="40"/>
 <img src="https://64.media.tumblr.com/c40e81596f30adf8690ee26aa12e888f/tumblr_inline_ob8z21ogTu1r2onau_400.png" title="Charles Proxy" alt="Charles Proxy" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/640px-Android_Studio_Logo_2024.svg.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>
