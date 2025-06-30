@@ -19,6 +19,7 @@
 <li>  <a href="https://github.com/bekarevvQA/mongodb">MongoDB</a> - NoSQL queries via MongoDB</li>
 <li>  <a href="https://github.com/bekarevvQA/proxyman.git">Proxyman</a> - changing responses and network checking</li>
 <li>  <a href="https://github.com/bekarevvQA/git">Git</a> - basic commands for control versions</li>
+<li>  <a href="https://github.com/bekarevvQA/bash.git">Bash</a> - some scripts for QA tasks</li>
 
 ---
 
