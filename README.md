@@ -53,4 +53,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/800px-ChatGPT-Logo.svg.png" title="ChatGPT" alt="ChatGPT" width="40" height="40"/>
 </p>
 
+<h3 align="center">You can find me here!</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/vasiliibekarev/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="LinkedIn"/></a>
+
 ![](https://komarev.com/ghpvc/?username=bekarevvQAtest)
