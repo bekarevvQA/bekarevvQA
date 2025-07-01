@@ -41,7 +41,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1024px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>
+<img src="https://www.dsaict.eu/web/image/product.template/2106/image_1024?unique=762f4fb" title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/>
 </p>
+
 
 <h2>Other tools</h2>
 <p align="center">
